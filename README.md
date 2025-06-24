@@ -16,4 +16,10 @@ Number of Transactions (Current Year VS Prior Year)
 
 ⏱  KPI Trends/Distribution    
 📋 Detailed KPI Breakdown    
-💡 KPI Decomposition    
+💡 KPI Decomposition  
+
+![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/Enduro-Bike-Co-Analytics/blob/main/Enduro%20Bike%20Co%20Overview%20Page.jpg)
+
+![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/Enduro-Bike-Co-Analytics/blob/main/Enduro%20Bike%20Co%20Detail%20Page.jpg)
+
+![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/Enduro-Bike-Co-Analytics/blob/main/Enduro%20Bike%20Co%20Decomposition.jpg)
