@@ -3,7 +3,7 @@
 Enduro Bike Co aims to improve its sales performance by analyzing two years' worth of historical sales data. This project involves creating a structured data model, calculating critical KPIs, and visualizing insights using Power BI.
 
 1. Data Modeling : Relational dimensional model.
-
+![Test]
 Sales Transactions ➝ Products (Product ID)
 Sales Transactions ➝ Customers (Customer ID)
 Customers ➝ Regions (Region ➝ Region ID)
